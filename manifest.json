@@ -1,0 +1,12 @@
+{
+    "manifest_version": 1,
+    "name": "琴摔",
+    "version": "1.1.5",
+    "description": "6.1幽境危战n5琴自动摔门（参数待优化）",
+    "authors": [
+      {
+        "name": "klee3519"
+      }
+    ],
+    "main": "main.js"
+  }
