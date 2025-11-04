@@ -1,1 +1,4 @@
-666
+将Jean文件夹复制粘贴到本地BetterGI目录下的User/JsScript文件夹内，例如：
+F:\BetterGI\User\JsScript\Jean\main.js
+F:\BetterGI\User\JsScript\Jean\manifest.json
+然后即可在BetterGI的配置组中导入名为Jean的js脚本。
